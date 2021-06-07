@@ -1,4 +1,5 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src=![Logo](https://user-images.githubusercontent.com/50494973/121082880-19c0b600-c7b5-11eb-8f7b-6003a6bb7d32.jpeg) width="400"></a></p>
+![Logo](https://user-images.githubusercontent.com/50494973/121083143-6f955e00-c7b5-11eb-9a62-582414fe3cb8.jpeg)
+
 
 
 
